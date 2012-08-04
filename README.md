@@ -7,6 +7,6 @@ See the main SureVoIP Developer website for more info - http://developer.surevoi
 
 Including:
 
-* in-browser chat widget which uses the Dojo Toolkit XMPP (also known as Jabber) libs http://dojotoolkit.org/api/1.7/dojox/xmpp
+* in-browser chat widget which uses the Dojo Toolkit XMPP (also known as Jabber) libs - http://dojotoolkit.org/api/1.7/dojox/xmpp
 * Perl tools
   
